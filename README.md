@@ -1,7 +1,7 @@
 <h1 align=center>
   <a href=https://www.itqb.unl.pt/labs/multiscale-modeling>
-    <img src="https://www.itqb.unl.pt/labs/multiscale-modeling/mm_logo"
-         width="128" alt="Multiscale Modeling Lab logo">
+    <img src="https://raw.githubusercontent.com/MeloLab/mml-assets/main/logo_title.svg"
+         alt="Multiscale Modeling Lab logo" width="128">
   </a>
 </h1>
 
@@ -11,9 +11,8 @@ Martini 3 Steroid Hormone Parameters
 This is the [Melo Lab](https://www.itqb.unl.pt/labs/multiscale-modeling)'s
 development repository for Martini 3 steroid hormone parameters.
 
-The `main` branch holds stable topology versions. These should be considered in
-_open-beta_ stage until a peer-reviewed publication is final. Beware that any
-other branch may hold in-development parameters.
+The `main` branch holds stable topology versions. Beware that any other branch
+may hold in-development parameters.
 
 If you use these models, be sure to cite:
 
@@ -21,14 +20,16 @@ If you use these models, be sure to cite:
 >
 >**Martini 3 Coarse-Grained Models for Steroid Hormones**
 >
->[doi:10.26434/chemrxiv.15002998](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002998)
+>J. Chem. Info. Model. 2026 [doi:10.1021/acs.jcim.6c03293](https://doi.org/10.1021/acs.jcim.6c03293)
+
+(Preprint was initially at [doi:10.26434/chemrxiv.15002998](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002998))
 
 ## Parameterized molecules and included data
 
 <img src="./hormones.svg">
 
-The `martini_v3.0.0_steroid_hormones_v0.9.itp` file contains the topologies, in
-GROMACS format, for the twenty parameterized hormones.
+The `martini_v3.0.0_steroid_hormones_v1.itp` file contains the topologies, in
+GROMACS format, for the parameterized hormones.
 
 Each hormone's directory includes the respective mapping index file,
 the atomistic cholesterol-aligned structures, their CG-mapped counterparts

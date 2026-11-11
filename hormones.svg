@@ -7,7 +7,7 @@
    viewBox="0 0 214.79808 153.86552"
    version="1.1"
    id="svg82575"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    sodipodi:docname="hormones.svg"
    inkscape:export-filename="/data/tamela/images/figure1_manel_paths.png"
    inkscape:export-xdpi="600"
@@ -26,14 +26,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="321.73358"
-     inkscape:cy="169.70562"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1080"
-     inkscape:window-y="551"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.80995964"
+     inkscape:cx="472.24575"
+     inkscape:cy="276.55699"
+     inkscape:window-width="1470"
+     inkscape:window-height="923"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="true"
      inkscape:snap-grids="false"
@@ -249,6 +249,31 @@
      id="layer1"
      style="display:inline"
      transform="translate(-225.98976,16.194669)">
+    <path
+       style="color:#000000;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 309.60848,-16.194633 c -0.4142,4.1e-5 -0.74996,0.335804 -0.75,0.75 l -0.004,73.960258 c -1e-5,13.05731 -0.003,33.210903 0,41.548815 10e-4,0.41343 0.33656,0.74801 0.75,0.74805 h 42.68633 c 0.4142,-4e-5 0.74996,-0.3358 0.75,-0.75 V 65.996135 l 43.06367,-0.002 c 0.41344,-4e-5 0.74888,-0.334613 0.75,-0.748047 v -80.690757 c -4e-5,-0.414197 -0.3358,-0.749959 -0.75,-0.75 z"
+       id="path5"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="color:#000000;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 397.60448,-16.194669 c -0.4142,4.1e-5 -0.74996,0.335803 -0.75,0.75 v 80.690763 c 4e-5,0.414196 0.3358,0.749959 0.75,0.75 h 42.43263 c 0.4142,-4.1e-5 0.74996,-0.335804 0.75,-0.75 v -80.690763 c -4e-5,-0.414197 -0.3358,-0.749959 -0.75,-0.75 z"
+       id="path4"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="color:#000000;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 226.73976,-16.194669 c -0.4142,4.1e-5 -0.74996,0.335803 -0.75,0.75 V 63.34375 c 4e-5,0.414196 0.3358,0.749959 0.75,0.75 h 81.36472 c 0.4142,-4.1e-5 0.74996,-0.335804 0.75,-0.75 v -78.788419 c -4e-5,-0.414197 -0.3358,-0.749959 -0.75,-0.75 z"
+       id="path3"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="color:#000000;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 353.79081,65.996094 c -0.4142,4.1e-5 -0.74996,0.335804 -0.75,0.75 v 70.174726 c 4e-5,0.4142 0.3358,0.74996 0.75,0.75 l 86.24703,4e-5 c 0.4142,-4e-5 0.74996,-0.3358 0.75,-0.75 V 66.746094 c -4e-5,-0.414196 -0.3358,-0.749959 -0.75,-0.75 z"
+       id="path2"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="color:#000000;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 352.2869,137.67082 c 0.41572,0.002 0.75387,-0.33427 0.75391,-0.75 v -35.35833 c -4e-5,-0.4142 -0.3358,-0.74996 -0.75,-0.75 h -43.43633 l -0.0293,-35.966797 c -4e-5,-0.414196 -0.3358,-0.749959 -0.75,-0.75 l -81.33542,-0.0019 c -0.4142,4.1e-5 -0.74996,0.335804 -0.75,0.75 v 72.077067 c 4e-5,0.4142 0.3358,0.74996 0.75,0.75 z"
+       id="path1"
+       sodipodi:nodetypes="cccccccccccc" />
     <ellipse
        style="display:inline;opacity:0.647174;fill:#d780e4;fill-opacity:0.956225;fill-rule:evenodd;stroke:#999999;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="path144938-7"
